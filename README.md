@@ -36,4 +36,4 @@ Enhanced using **GSAP**, **ScrollTrigger**, and **Smooth Scroll** for smooth ani
 ## 📁 Run Locally
 
 ```bash
-git clone https://github.com/Firdose-max/LAZAREV.git
+git clone https://github.com/Firdose-max/LAZAREV/tree/main
